@@ -167,8 +167,6 @@ store-rating-system/
 │   ├── package.json
 │   └── .gitignore
 │
-├── README.md
-└── .gitignore            # Root ignore (optional)
+└── README.md
 
 
-Feel free to fork, extend, or use as a reference in interviews/projects.
